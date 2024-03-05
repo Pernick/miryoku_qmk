@@ -5,3 +5,5 @@
 
 #pragma once
 
+#define RP2040_FLASH_GD25Q64CS
+#define SPLIT_USB_DETECT
