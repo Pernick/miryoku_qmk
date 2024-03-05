@@ -27,9 +27,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { F4, F5, F6, F7, B1, B3 }
 // #define MATRIX_COL_PINS { B2, B3, B1, F7, F6, F5, F4 } //uncomment this line and comment line above if you need to reverse left-to-right key order
 
-#define RP2040_FLASH_GD25Q64CS
-#define SPLIT_USB_DETECT
-
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
